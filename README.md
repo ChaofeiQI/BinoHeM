@@ -720,4 +720,4 @@ python bino5_distilltest.py --pre_epoch $pre_epoch --pre_num_episode $pre_num_ep
    *The codes can be used for research purposes only. This package is strictly for non-commercial academic use only.*
 
 # 6. Acknowledgment
-Our code refers the the corresponding code publicly available: [DeepBDC](http://www.peihuali.org/DeepBDC/)
+Our code refers the corresponding code publicly available: [DeepBDC](http://www.peihuali.org/DeepBDC/)
