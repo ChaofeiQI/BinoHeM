@@ -10,16 +10,11 @@
 (First Release Date: 2024-5-28)
 >
 # 1. Introduction
-<p align="center">
-*Meta-metric methods benefit from the advantages of concise principles but high efficiency, yet we also found that current meta-metric methods perform not ideal with the fine-grained scenarios.*
+>*Meta-metric methods benefit from the advantages of concise principles but high efficiency, yet we also found that current meta-metric methods perform not ideal with the fine-grained scenarios.*
 *Inspired by the specialty of our human binocular visual systems, this paper originally proposes a human-like metametric paradigm, the Binocular singular Hellinger Metametric (BinoHeM), with the superior symmetric binocular encoding and recognition mechanisms.
 Specificaly, we have innovatively put forward two Binocular Sensing Feature Encoders(BSFEs), Singular Hellinger Metametric (HeM), and two Collaborative Identification Mechanisms(CIMs). 
 On this basis, we further advance two excellent variants(BinoHeM-KDL,BinoHeM-MTL), adopting two different training mechanisms: knowledge distillation learning and meta-transfer learning.*
-</p>
-*Meta-metric methods benefit from the advantages of concise principles but high efficiency, yet we also found that current meta-metric methods perform not ideal with the fine-grained scenarios.*
-*Inspired by the specialty of our human binocular visual systems, this paper originally proposes a human-like metametric paradigm, the Binocular singular Hellinger Metametric (BinoHeM), with the superior symmetric binocular encoding and recognition mechanisms.
-Specificaly, we have innovatively put forward two Binocular Sensing Feature Encoders(BSFEs), Singular Hellinger Metametric (HeM), and two Collaborative Identification Mechanisms(CIMs). 
-On this basis, we further advance two excellent variants(BinoHeM-KDL,BinoHeM-MTL), adopting two different training mechanisms: knowledge distillation learning and meta-transfer learning.*
+>
 <p align="center"><img width="100%" src="assets/BinoHeM.PNG" /></p>
 
 # 2. Pre-Training, Meta/KDL-Training, Meta/KDL-Evaluation for Our BinoHeM
