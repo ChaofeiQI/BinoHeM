@@ -1,4 +1,7 @@
 # BinoHeM: Binocular Singular Hellinger Metametric for Fine-Grained Few-Shot Classification
+![](https://img.shields.io/badge/BinoHeM-brightgreen)
+![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
+![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
 
 This package includes our codes for implementing "BinoHeM: Binocular Singular Hellinger Metametric for Fine-Grained Few-Shot Classification". 
 (First Release Date: 2024-5-28)
