@@ -9,7 +9,7 @@
 >This package includes our codes for implementing "BinoHeM: Binocular Singular Hellinger Metametric for Fine-Grained Few-Shot Classification". 
 (First Release Date: 2024-5-28)
 
-> Benchmark: https://pan.baidu.com/s/1KNc0v-9vud0nmONA4-HR4A Code: cywr
+> Benchmark link: https://pan.baidu.com/s/1KNc0v-9vud0nmONA4-HR4A Code: cywr
 
 >
 # 1. Introduction
