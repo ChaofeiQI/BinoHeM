@@ -18,7 +18,7 @@
 Specificaly, we have innovatively put forward two Binocular Sensing Feature Encoders(BSFEs), Singular Hellinger Metametric (HeM), and two Collaborative Identification Mechanisms(CIMs). 
 On this basis, we further advance two excellent variants(BinoHeM-KDL,BinoHeM-MTL), adopting two different training mechanisms: knowledge distillation learning and meta-transfer learning.*
 >
-<p align="center"><img width="100%" src="assets/BinoHeM.png" /></p>
+<p align="center"><img width="100%" src="assets/BinoHeM.PNG" /></p>
 
 # 2. Pre-Training, Meta/KDL-Training, Meta/KDL-Evaluation for Our BinoHeM
 ```
