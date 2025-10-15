@@ -1,4 +1,4 @@
-# BinoHeM: Binocular Singular Hellinger Metametric for Fine-Grained Few-Shot Classification
+# [TIP-2025] BinoHeM: Binocular Singular Hellinger Metametric for Fine-Grained Few-Shot Classification
 ![](https://img.shields.io/badge/Research-BinoHeM-brightgreen)
 ![](https://img.shields.io/badge/Meta-Learning-brightred)
 ![](https://img.shields.io/badge/Hellinger-Metametric-brightblue)
