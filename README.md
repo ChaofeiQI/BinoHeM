@@ -7,7 +7,6 @@
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
 
 >This package includes our codes for implementing "BinoHeM: Binocular Singular Hellinger Metametric for Fine-Grained Few-Shot Classification". 
-(First Release Date: 2024-5-28)
 
 > Benchmark link: https://pan.baidu.com/s/1KNc0v-9vud0nmONA4-HR4A Code: cywr
 
